@@ -7,8 +7,6 @@
     <PackageTags>cli;command-line;routing;framework;dotnet;console;consoleappframework;commandlineparser;mcmaster;cocona;spectre;system-commandline;clipr;commanddotnet</PackageTags>
     <!-- Disable localization warning as CLI frameworks don't typically need localization -->
     <NoWarn>$(NoWarn);CA1303</NoWarn>
-    <!-- Enforce code style rules during build -->
-    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
   </PropertyGroup>
 
   <ItemGroup>

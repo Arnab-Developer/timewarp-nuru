@@ -1,7 +1,4 @@
 <Project>
-  <PropertyGroup>
-    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
-  </PropertyGroup>
   <ItemGroup>
     <!-- External packages -->
     <PackageVersion Include="GlobalUsingsAnalyzer" Version="1.4.0">
